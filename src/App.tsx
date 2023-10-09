@@ -1,12 +1,12 @@
-import './App.css'
+import "./App.css";
+import Exercise1 from "./components/Exercise1";
 
 function App() {
-
   return (
     <>
-      <div>hello !</div>
+      <Exercise1 />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
